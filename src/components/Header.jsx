@@ -113,7 +113,7 @@ const Header = () => {
       <div className="mr-6 mt-4">
       🌑 <Switch size="small" onClick={handleTheme}/> ☀️
      </div >
-        <a href="https://github.com/m_usman.prince">
+        <a href="https://instagram.com/m_usman.prince">
           <img className="rounded-full h-11 m-2" alt="user" src={user} />
         </a>
        
